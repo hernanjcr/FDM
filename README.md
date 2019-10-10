@@ -1,7 +1,11 @@
 # FDM
 Metabolomics Data Analysis Improvement by Use of the Filter Diagonalization Method
 
-Supplemntary material for article submeted to the "Applied Magnetic Resonance"
+Supplementary material for article submeted to the "Applied Magnetic Resonance"
+
+DOI: 10.1007/s00723-019-01158-0 (https://dx.doi.org/10.1007/s00723-019-01158-0)
+Received: 20 May 2019 / Revised: 19 August 2019
+© Springer-Verlag GmbH Austria, part of Springer Nature 2019
 
 
 Files in this repository:
